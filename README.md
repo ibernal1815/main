@@ -112,6 +112,8 @@
 - Developed a findings report with 3 mitigation strategies to minimize application attack surfaces.  
 **Skills:** *Application Security · macOS Security · Sandboxing · Vulnerability Assessment · Permission Auditing · Risk Analysis · Static Analysis*
 
+  - <span style="color:red">[macOS Entitlement Audit](https://github.com/iobsec/macos-entitlement-audit)</span>  
+
 ---
 
 ### 🌐 Network Detection Lab (Feb 2025 – Present)
@@ -121,6 +123,8 @@
 - Tuned Suricata rule sets to improve detection rates and reduce false positives during simulations.
 - Created a structured event report summarizing detected attack patterns and defense recommendations.  
 **Skills:** *Suricata · Network Security · Intrusion Detection · Threat Detection · Traffic Analysis · Linux Security · Security Event Analysis*
+
+  - <span style="color:red">[Network Detection Lab](https://github.com/iobsec/network-detection-lab)</span>  
 
 ---
 
@@ -133,6 +137,8 @@
 - Monitored network traffic and security logs, identifying and mitigating simulated vulnerabilities.  
 **Skills:** *Network Security Management · Incident Response · Penetration Testing · Vulnerability Assessment · Log Analysis*
 
+- <span style="color:red">[Cybersecurity HomeLab](https://github.com/iobsec/cybersecurity-homelab)</span>  
+
 ---
 
 ### 🦠 Malware Analysis Lab (Nov 2023 – Jan 2024)
@@ -141,6 +147,8 @@
 - Assessed system-level impact of malware behavior on performance and persistence.
 - Developed mitigation strategies based on findings to enhance organizational response posture.  
 **Skills:** *Reverse Engineering · Incident Response · Malware Analysis · CTI · Static/Dynamic Analysis · System Performance Forensics*
+
+- <span style="color:red">[Malware Analysis Lab](https://github.com/iobsec/malware-analysis-lab)</span>  
 
 ---
 
@@ -151,6 +159,8 @@
 - Practiced customer support strategies, technical triage, and business process improvement.  
 **Skills:** *Multi-OS Troubleshooting · VPN Support · Ticketing Systems · Customer Experience · IT Operations*
 
+  - <span style="color:red">[Help Desk Simulation](https://github.com/iobsec/helpdesk-simulation)</span>  
+
 ---
 
 ### 🖥️ Windows Server 2016 System Administration (Mar 2021 – May 2021)
@@ -159,7 +169,8 @@
 - Linked DNS to internal network and implemented Windows Server Backup for recovery.
 - Enforced security policies and structured domain with effective backup strategy.  
 **Skills:** *OS Virtualization · Active Directory · Group Policy · DNS · Backup & Recovery · Windows Server*
-"""
+
+- <span style="color:red">[Windows Server 2016 Admin](https://github.com/iobsec/windows-server-2016-admin)</span>
 
 ---
 
