@@ -110,7 +110,7 @@
 - Identified 8 apps with elevated privileges inconsistent with least-privilege best practices.
 - Correlated permission risks to common macOS misconfigurations and platform security gaps.
 - Developed a findings report with 3 mitigation strategies to minimize application attack surfaces.  
-**Skills:** Application Security · macOS Security · Sandboxing · Vulnerability Assessment · Permission Auditing · Risk Analysis · Static Analysis
+**Skills:** *Application Security · macOS Security · Sandboxing · Vulnerability Assessment · Permission Auditing · Risk Analysis · Static Analysis*
 
 ---
 
@@ -120,7 +120,7 @@
 - Captured and analyzed 30+ security events to strengthen traffic inspection and alert interpretation.
 - Tuned Suricata rule sets to improve detection rates and reduce false positives during simulations.
 - Created a structured event report summarizing detected attack patterns and defense recommendations.  
-**Skills:** Suricata · Network Security · Intrusion Detection · Threat Detection · Traffic Analysis · Linux Security · Security Event Analysis
+**Skills:** *Suricata · Network Security · Intrusion Detection · Threat Detection · Traffic Analysis · Linux Security · Security Event Analysis*
 
 ---
 
@@ -131,7 +131,7 @@
 - Configured Kali Linux for testing security measures and conducting penetration testing exercises.
 - Provisioned vulnerable machines including Windows Server 2016 and Linux MintOS for exploitation practice.
 - Monitored network traffic and security logs, identifying and mitigating simulated vulnerabilities.  
-**Skills:** Network Security Management · Incident Response · Penetration Testing · Vulnerability Assessment · Log Analysis
+**Skills:** *Network Security Management · Incident Response · Penetration Testing · Vulnerability Assessment · Log Analysis*
 
 ---
 
@@ -140,7 +140,7 @@
 - Utilized REMnux and FlareVM to analyze various malware samples and document IOCs.
 - Assessed system-level impact of malware behavior on performance and persistence.
 - Developed mitigation strategies based on findings to enhance organizational response posture.  
-**Skills:** Reverse Engineering · Incident Response · Malware Analysis · CTI · Static/Dynamic Analysis · System Performance Forensics
+**Skills:** *Reverse Engineering · Incident Response · Malware Analysis · CTI · Static/Dynamic Analysis · System Performance Forensics*
 
 ---
 
@@ -149,7 +149,7 @@
 - Configured Zendesk for ticket generation, resolution workflow, and performance reporting.
 - Simulated software install issues, VPN errors, and network connectivity problems.
 - Practiced customer support strategies, technical triage, and business process improvement.  
-**Skills:** Multi-OS Troubleshooting · VPN Support · Ticketing Systems · Customer Experience · IT Operations
+**Skills:** *Multi-OS Troubleshooting · VPN Support · Ticketing Systems · Customer Experience · IT Operations*
 
 ---
 
@@ -158,16 +158,8 @@
 - Configured Active Directory Domain Services (AD DS) and created users, OUs, and GPOs.
 - Linked DNS to internal network and implemented Windows Server Backup for recovery.
 - Enforced security policies and structured domain with effective backup strategy.  
-**Skills:** OS Virtualization · Active Directory · Group Policy · DNS · Backup & Recovery · Windows Server
+**Skills:** *OS Virtualization · Active Directory · Group Policy · DNS · Backup & Recovery · Windows Server*
 """
-
----
-
-## 📬 Let's Connect
-- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
-- [GitHub Projects](https://github.com/iobsec)
-- [TryHackMe](https://tryhackme.com/p/YOURPROFILE)
-- [Email](mailto:youremail@example.com)
 
 ---
 
