@@ -103,12 +103,63 @@
 ---
 
 ## 🔨 Lab Repositories (In Progress)
-- `powershell-encoded-detection/` – Detecting base64-encoded PS1 payloads (T1059.001)  
-- `lsass-memory-dump-detection/` – Detecting Mimikatz-style credential access (T1003.001)  
-- `dns-tunneling-lab/` – Detecting exfiltration using covert DNS queries  
-- `macos-hardening-audit/` – Endpoint hardening and audit logging for macOS  
-- `helpdesk-simulation/` – Basic IT ticketing and Active Directory incident triage  
-- `atomic-red-team-lab/` – Emulating ATT&CK techniques and verifying detection coverage
+
+### 🔍 macOS Entitlement Audit (Apr 2025 – Present)
+- Audited entitlements for 15+ macOS Sonoma applications using Terminal and codesign utilities.
+- Extracted and reviewed sandbox permissions for sensitive access like camera, microphone, and file systems.
+- Identified 8 apps with elevated privileges inconsistent with least-privilege best practices.
+- Correlated permission risks to common macOS misconfigurations and platform security gaps.
+- Developed a findings report with 3 mitigation strategies to minimize application attack surfaces.  
+**Skills:** Application Security · macOS Security · Sandboxing · Vulnerability Assessment · Permission Auditing · Risk Analysis · Static Analysis
+
+---
+
+### 🌐 Network Detection Lab (Feb 2025 – Present)
+- Deployed Suricata IDS in a Linux virtual machine to monitor and detect inbound network traffic.
+- Simulated SYN scans, service enumeration, and reverse shell attacks from a Windows VM using Nmap and Netcat.
+- Captured and analyzed 30+ security events to strengthen traffic inspection and alert interpretation.
+- Tuned Suricata rule sets to improve detection rates and reduce false positives during simulations.
+- Created a structured event report summarizing detected attack patterns and defense recommendations.  
+**Skills:** Suricata · Network Security · Intrusion Detection · Threat Detection · Traffic Analysis · Linux Security · Security Event Analysis
+
+---
+
+### 🧰 Cybersecurity HomeLab Development (Jan 2024 – Apr 2024)
+- Designed VirtualBox lab environment to simulate real-world cybersecurity scenarios and attacks.
+- Integrated Security Onion to aggregate and analyze logs for network security monitoring.
+- Deployed Ubuntu VM for in-depth log analysis and incident response investigations.
+- Configured Kali Linux for testing security measures and conducting penetration testing exercises.
+- Provisioned vulnerable machines including Windows Server 2016 and Linux MintOS for exploitation practice.
+- Monitored network traffic and security logs, identifying and mitigating simulated vulnerabilities.  
+**Skills:** Network Security Management · Incident Response · Penetration Testing · Vulnerability Assessment · Log Analysis
+
+---
+
+### 🦠 Malware Analysis Lab (Nov 2023 – Jan 2024)
+- Conducted malware analysis in a controlled VirtualBox environment for isolation and safety.
+- Utilized REMnux and FlareVM to analyze various malware samples and document IOCs.
+- Assessed system-level impact of malware behavior on performance and persistence.
+- Developed mitigation strategies based on findings to enhance organizational response posture.  
+**Skills:** Reverse Engineering · Incident Response · Malware Analysis · CTI · Static/Dynamic Analysis · System Performance Forensics
+
+---
+
+### 🧑‍💼 Help Desk Simulation (Apr 2022 – Aug 2022)
+- Created multi-OS VM lab with Windows, macOS, and Linux environments for helpdesk scenarios.
+- Configured Zendesk for ticket generation, resolution workflow, and performance reporting.
+- Simulated software install issues, VPN errors, and network connectivity problems.
+- Practiced customer support strategies, technical triage, and business process improvement.  
+**Skills:** Multi-OS Troubleshooting · VPN Support · Ticketing Systems · Customer Experience · IT Operations
+
+---
+
+### 🖥️ Windows Server 2016 System Administration (Mar 2021 – May 2021)
+- Deployed Windows Server 2016 in VirtualBox to simulate domain network environments.
+- Configured Active Directory Domain Services (AD DS) and created users, OUs, and GPOs.
+- Linked DNS to internal network and implemented Windows Server Backup for recovery.
+- Enforced security policies and structured domain with effective backup strategy.  
+**Skills:** OS Virtualization · Active Directory · Group Policy · DNS · Backup & Recovery · Windows Server
+"""
 
 ---
 
