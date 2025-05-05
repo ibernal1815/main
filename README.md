@@ -43,7 +43,7 @@
 - Developed a findings report with 3 mitigation strategies to minimize application attack surfaces.  
 **Skills:** *Application Security · macOS Security · Sandboxing · Vulnerability Assessment · Permission Auditing · Risk Analysis · Static Analysis*
 
-- [macOS Entitlement Audit](https://github.com/iobsec/macos-entitlement-audit)
+- [macOS Entitlement Audit](https://github.com/ibernal1815/macos-entitlement-audit)
 
 ---
 
@@ -55,7 +55,7 @@
 - Created a structured event report summarizing detected attack patterns and defense recommendations.  
 **Skills:** *Suricata · Network Security · Intrusion Detection · Threat Detection · Traffic Analysis · Linux Security · Security Event Analysis*
 
-- [Network Detection Lab](https://github.com/iobsec/network-detection-lab)
+- [Network Detection Lab](https://github.com/ibernal1815/network-detection-lab)
 
 ---
 
@@ -68,7 +68,7 @@
 - Monitored network traffic and security logs, identifying and mitigating simulated vulnerabilities.  
 **Skills:** *Network Security Management · Incident Response · Penetration Testing · Vulnerability Assessment · Log Analysis*
 
-- [Cybersecurity HomeLab](https://github.com/iobsec/cybersecurity-homelab)
+- [Cybersecurity HomeLab](https://github.com/ibernal1815/cybersecurity-homelab)
 
 ---
 
@@ -79,7 +79,7 @@
 - Developed mitigation strategies based on findings to enhance organizational response posture.  
 **Skills:** *Reverse Engineering · Incident Response · Malware Analysis · CTI · Static/Dynamic Analysis · System Performance Forensics*
 
-- [Malware Analysis Lab](https://github.com/iobsec/malware-analysis-lab)
+- [Malware Analysis Lab](https://github.com/ibernal1815/malware-analysis-lab)
 
 ---
 
@@ -90,7 +90,7 @@
 - Practiced customer support strategies, technical triage, and business process improvement.  
 **Skills:** *Multi-OS Troubleshooting · VPN Support · Ticketing Systems · Customer Experience · IT Operations*
 
-- [Help Desk Simulation](https://github.com/iobsec/helpdesk-simulation)
+- [Help Desk Simulation](https://github.com/ibernal1815/helpdesk-simulation)
 
 ---
 
@@ -101,7 +101,7 @@
 - Enforced security policies and structured domain with effective backup strategy.  
 **Skills:** *OS Virtualization · Active Directory · Group Policy · DNS · Backup & Recovery · Windows Server*
 
-- [Windows Server 2016 Admin](https://github.com/iobsec/windows-server-2016-admin)
+- [Windows Server 2016 Admin](https://github.com/ibernal1815/windows-server-2016-admin)
 
 ---
 
