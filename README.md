@@ -1,7 +1,3 @@
-# iobsec
-
-# Create the README.md content based on previous user info and purple team focus
-readme_content = """
 <h1 align="center">⚔️ iobsec – Purple Team Engineer in Progress ⚔️</h1>
 <p align="center">💡 Adversary Emulation | Detection Engineering | Building Real Labs 💡</p>
 
