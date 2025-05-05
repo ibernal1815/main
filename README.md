@@ -124,7 +124,7 @@
 - Created a structured event report summarizing detected attack patterns and defense recommendations.  
 **Skills:** *Suricata · Network Security · Intrusion Detection · Threat Detection · Traffic Analysis · Linux Security · Security Event Analysis*
 
-  - <span style="color:red">[Network Detection Lab](https://github.com/iobsec/network-detection-lab)</span>  
+- <span style="color:red">[Network Detection Lab](https://github.com/iobsec/network-detection-lab)</span>  
 
 ---
 
@@ -159,7 +159,7 @@
 - Practiced customer support strategies, technical triage, and business process improvement.  
 **Skills:** *Multi-OS Troubleshooting · VPN Support · Ticketing Systems · Customer Experience · IT Operations*
 
-  - <span style="color:red">[Help Desk Simulation](https://github.com/iobsec/helpdesk-simulation)</span>  
+- <span style="color:red">[Help Desk Simulation](https://github.com/iobsec/helpdesk-simulation)</span>  
 
 ---
 
