@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ iobsec – Purple Team Engineer in Progress ⚔️</h1>
+<h1 align="center">⚔️ Isaiah Bernal – Purple Team Engineer in Progress ⚔️</h1>
 <p align="center">💡 Adversary Emulation | Detection Engineering | Building Real Labs 💡</p>
 
 ---
