@@ -49,10 +49,15 @@
 
 ### 🛡️ Python Keylogger with Remote C2 Server (May 2025 – Present)
 - Developed a cross-platform keylogger in Python using pynput, with support for screenshot capture and encrypted keystroke logs.
+
 - Engineered a custom Flask-based C2 server to receive real-time keystroke data via HTTP POST in a controlled lab environment.
+
 - Self-tested across 2 platforms (macOS, Linux) using VMware Workstation to simulate adversarial client-server communication.
+
 - Designed for modularity and ethical use, including configuration flags, log filters, and a testing sandbox to ensure safe operation.
+
 **Skills:** *Python · Offensive Security · Client-Server Architecture · Remote Monitoring · Ethical Hacking · Network Communication · Keylogging*
+
 
 ---
 
