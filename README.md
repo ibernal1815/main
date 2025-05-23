@@ -36,14 +36,15 @@
 ## 🔨 Lab Repositories (In Progress)
 
 ### 🔍 macOS Entitlement Audit (May 2025 – Present)
-- Audited entitlements for 15+ macOS Sonoma applications using Terminal and codesign utilities.
-- Extracted and reviewed sandbox permissions for sensitive access like camera, microphone, and file systems.
-- Identified 8 apps with elevated privileges inconsistent with least-privilege best practices.
-- Correlated permission risks to common macOS misconfigurations and platform security gaps.
-- Developed a findings report with 3 mitigation strategies to minimize application attack surfaces.  
-**Skills:** *Application Security · macOS Security · Sandboxing · Vulnerability Assessment · Permission Auditing · Risk Analysis · Static Analysis*
+- Audited entitlements for 5 macOS Sonoma applications using codesign and plist parsing via custom Bash scripts.
 
-- [macOS Entitlement Audit](https://github.com/ibernal1815/macos-entitlement-audit)
+- Extracted and analyzed sandbox permissions such as get-task-allow, disable-library-validation, and allow-dyld-environment-variables.
+
+- Discovered 3 applications (Google Chrome, Postman, Zoom.us) with elevated entitlements posing potential security risks.
+
+- Built a two-part scanning and detection system to automate entitlement discovery and flag suspicious configurations.
+
+**Skills:** *macOS Security · Bash Scripting · Static Analysis · Permission Auditing · Application Hardening · Endpoint Security*
 
 ---
 
