@@ -44,7 +44,7 @@
 
 - Built a two-part scanning and detection system to automate entitlement discovery and flag suspicious configurations.
 
-**Skills:** *macOS Security · Bash Scripting · Static Analysis · Permission Auditing · Application Hardening · Endpoint Security*
+[**Skills:** *macOS Security · Bash Scripting · Static Analysis · Permission Auditing · Application Hardening · Endpoint Security*]
 
 ---
 
@@ -57,7 +57,7 @@
 
 - Designed for modularity and ethical use, including configuration flags, log filters, and a testing sandbox to ensure safe operation.
 
-**Skills:** *Python · Offensive Security · Client-Server Architecture · Remote Monitoring · Ethical Hacking · Network Communication · Keylogging*
+[**Skills:** *Python · Offensive Security · Client-Server Architecture · Remote Monitoring · Ethical Hacking · Network Communication · Keylogging*]
 
 
 ---
