@@ -35,7 +35,7 @@
 
 ## 🔨 Lab Repositories (In Progress)
 
-### 🔍 macOS Entitlement Audit (Apr 2025 – Present)
+### 🔍 macOS Entitlement Audit (May 2025 – Present)
 - Audited entitlements for 15+ macOS Sonoma applications using Terminal and codesign utilities.
 - Extracted and reviewed sandbox permissions for sensitive access like camera, microphone, and file systems.
 - Identified 8 apps with elevated privileges inconsistent with least-privilege best practices.
@@ -47,61 +47,12 @@
 
 ---
 
-### 🌐 Network Detection Lab (Feb 2025 – Present)
-- Deployed Suricata IDS in a Linux virtual machine to monitor and detect inbound network traffic.
-- Simulated SYN scans, service enumeration, and reverse shell attacks from a Windows VM using Nmap and Netcat.
-- Captured and analyzed 30+ security events to strengthen traffic inspection and alert interpretation.
-- Tuned Suricata rule sets to improve detection rates and reduce false positives during simulations.
-- Created a structured event report summarizing detected attack patterns and defense recommendations.  
-**Skills:** *Suricata · Network Security · Intrusion Detection · Threat Detection · Traffic Analysis · Linux Security · Security Event Analysis*
-
-- [Network Detection Lab](https://github.com/ibernal1815/network-detection-lab)
-
----
-
-### 🧰 Cybersecurity HomeLab Development (Jan 2024 – Apr 2024)
-- Designed VirtualBox lab environment to simulate real-world cybersecurity scenarios and attacks.
-- Integrated Security Onion to aggregate and analyze logs for network security monitoring.
-- Deployed Ubuntu VM for in-depth log analysis and incident response investigations.
-- Configured Kali Linux for testing security measures and conducting penetration testing exercises.
-- Provisioned vulnerable machines including Windows Server 2016 and Linux MintOS for exploitation practice.
-- Monitored network traffic and security logs, identifying and mitigating simulated vulnerabilities.  
-**Skills:** *Network Security Management · Incident Response · Penetration Testing · Vulnerability Assessment · Log Analysis*
-
-- [Cybersecurity HomeLab](https://github.com/ibernal1815/cybersecurity-homelab)
-
----
-
-### 🦠 Malware Analysis Lab (Nov 2023 – Jan 2024)
-- Conducted malware analysis in a controlled VirtualBox environment for isolation and safety.
-- Utilized REMnux and FlareVM to analyze various malware samples and document IOCs.
-- Assessed system-level impact of malware behavior on performance and persistence.
-- Developed mitigation strategies based on findings to enhance organizational response posture.  
-**Skills:** *Reverse Engineering · Incident Response · Malware Analysis · CTI · Static/Dynamic Analysis · System Performance Forensics*
-
-- [Malware Analysis Lab](https://github.com/ibernal1815/malware-analysis-lab)
-
----
-
-### 🧑‍💼 Help Desk Simulation (Apr 2022 – Aug 2022)
-- Created multi-OS VM lab with Windows, macOS, and Linux environments for helpdesk scenarios.
-- Configured Zendesk for ticket generation, resolution workflow, and performance reporting.
-- Simulated software install issues, VPN errors, and network connectivity problems.
-- Practiced customer support strategies, technical triage, and business process improvement.  
-**Skills:** *Multi-OS Troubleshooting · VPN Support · Ticketing Systems · Customer Experience · IT Operations*
-
-- [Help Desk Simulation](https://github.com/ibernal1815/helpdesk-simulation)
-
----
-
-### 🖥️ Windows Server 2016 System Administration (Mar 2021 – May 2021)
-- Deployed Windows Server 2016 in VirtualBox to simulate domain network environments.
-- Configured Active Directory Domain Services (AD DS) and created users, OUs, and GPOs.
-- Linked DNS to internal network and implemented Windows Server Backup for recovery.
-- Enforced security policies and structured domain with effective backup strategy.  
-**Skills:** *OS Virtualization · Active Directory · Group Policy · DNS · Backup & Recovery · Windows Server*
-
-- [Windows Server 2016 Admin](https://github.com/ibernal1815/windows-server-2016-admin)
+### 🛡️ Python Keylogger with Remote C2 Server (May 2025 – Present)
+- Developed a cross-platform keylogger in Python using pynput, with support for screenshot capture and encrypted keystroke logs.
+- Engineered a custom Flask-based C2 server to receive real-time keystroke data via HTTP POST in a controlled lab environment.
+- Self-tested across 2 platforms (macOS, Linux) using VMware Workstation to simulate adversarial client-server communication.
+- Designed for modularity and ethical use, including configuration flags, log filters, and a testing sandbox to ensure safe operation.
+**Skills:** *Python · Offensive Security · Client-Server Architecture · Remote Monitoring · Ethical Hacking · Network Communication · Keylogging*
 
 ---
 
