@@ -33,35 +33,6 @@
 
 ---
 
-## 🔨 Lab Repositories (In Progress)
-
-### 🔍 macOS Entitlement Audit (May 2025 – Present)
-- Audited entitlements for 5 macOS Sonoma applications using codesign and plist parsing via custom Bash scripts.
-
-- Extracted and analyzed sandbox permissions such as get-task-allow, disable-library-validation, and allow-dyld-environment-variables.
-
-- Discovered 3 applications (Google Chrome, Postman, Zoom.us) with elevated entitlements posing potential security risks.
-
-- Built a two-part scanning and detection system to automate entitlement discovery and flag suspicious configurations.
-
-[**Skills:** *macOS Security · Bash Scripting · Static Analysis · Permission Auditing · Application Hardening · Endpoint Security*]
-
----
-
-### 🛡️ Python Keylogger with Remote C2 Server (May 2025 – Present)
-- Developed a cross-platform keylogger in Python using pynput, with support for screenshot capture and encrypted keystroke logs.
-
-- Engineered a custom Flask-based C2 server to receive real-time keystroke data via HTTP POST in a controlled lab environment.
-
-- Self-tested across 2 platforms (macOS, Linux) using VMware Workstation to simulate adversarial client-server communication.
-
-- Designed for modularity and ethical use, including configuration flags, log filters, and a testing sandbox to ensure safe operation.
-
-[**Skills:** *Python · Offensive Security · Client-Server Architecture · Remote Monitoring · Ethical Hacking · Network Communication · Keylogging*]
-
-
----
-
 ## 🛡️ Certifications 
 
 ### 🧩 CompTIA ITF+ — *Foundational IT Knowledge*
