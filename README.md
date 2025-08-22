@@ -4,7 +4,7 @@
 ---
 
 ## 👋 About Me
-- 22 y/o cybersecurity + IT professional  
+- 23 y/o cybersecurity + IT professional  
 - Associate's in Programming & Cybersecurity  
 - Bachelor's in Computer Information Technology (in progress)  
 - Planning a Master's in Software Engineering  
