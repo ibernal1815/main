@@ -4,10 +4,10 @@
 ---
 
 ## 👋 About Me
-- 23 y/o cybersecurity + IT professional  
+- 23 y/o Cybersecurity + IT professional  
 - Associate's in Programming & Cybersecurity  
 - Bachelor's in Computer Information Technology (in progress)  
-- Planning a Master's in Software Engineering  
+- Future Master's in Computer Science @ CSULA
 - Seeking **remote** cybersecurity or IT roles  
 - Focused on **Purple Teaming** — simulating real attacks and building custom detections
 
