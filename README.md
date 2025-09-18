@@ -33,6 +33,35 @@
 
 ---
 
+## 🛠️ Core Skills
+- Operating Systems: Windows, Linux, macOS  
+- Networking & Protocols: TCP/IP, DNS, VPN, Wireshark  
+- Cybersecurity: SIEM (Splunk, Wazuh, ELK), IDS/IPS (Snort, Suricata), Incident Response  
+- Programming & Scripting: Python, PowerShell, Bash, C++, JavaScript  
+- Cloud & Virtualization: AWS, Azure, GCP, Hyper-V, VirtualBox  
+- Frameworks & Standards: MITRE ATT&CK, NIST, ISO/IEC 27001  
+
+---
+
+## 🚀 Highlighted Projects
+- [**macOS Audit Entitlement**](https://github.com/yourusername/macOS-Audit-Entitlement) – Explored Apple’s entitlement system, auditing macOS security controls, and analyzing application behavior through custom detection scripts.  
+- [**Active Directory Lab**](https://github.com/yourusername/Active-Directory-Lab) – Built a fully virtualized AD environment with domain controllers, Group Policy, and simulated attacks. Developed detection rules to monitor privilege escalation attempts.  
+- [**Linux PE (Privilege Escalation)**](https://github.com/yourusername/Linux-PE) – Designed a lab to practice Linux privilege escalation techniques and documented mitigations. Integrated findings into Purple Team workflows to improve detection engineering.  
+
+---
+
+## 📖 Current Focus
+- Advancing Purple Team methodologies through real-world adversary emulation  
+- Building custom detections and SIEM workflows in Splunk and ELK  
+- Expanding SOC automation with Python and PowerShell  
+- Strengthening cloud security skills across AWS, Azure, and GCP  
+- Preparing for advanced certifications (CISSP, OSCP in the future)  
+
+---
+
+<p align="center"><strong>“Offense informs defense. Defense drives detection. Purple builds the future.”</strong></p>
+
+
 ## 🛡️ Certifications 
 
 ### 🧩 CompTIA ITF+ — *Foundational IT Knowledge*
