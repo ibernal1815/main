@@ -26,10 +26,11 @@
 - **CIS 219:** Secure SQL development, parameterized queries  
 - **CIS 165:** CIA triad, NIST/ISO, risk assessment
 
-### Bachelor's in Computer Information Technology (in progress)  
-- **CIT 270/L:** Cloud scripting, integration (Python, VBScript, XML)  
-- **COMP 529/L:** Distributed systems, client-server sockets, concurrency  
-- **COMP 584:** Web security, OWASP Top 10, static/dynamic analysis
+### Bachelor's in Computer Information Technology (in progress)   
+- **CIT 480/L:** Project management, feasibility studies, technical presentations  
+- **COMP 529/L:** Distributed systems, concurrency, client-server sockets  
+- **COMP 541:** Data mining, clustering, classification  
+
 
 ---
 
@@ -55,7 +56,7 @@
 - Building custom detections and SIEM workflows in Splunk and ELK  
 - Expanding SOC automation with Python and PowerShell  
 - Strengthening cloud security skills across AWS, Azure, and GCP  
-- Preparing for advanced certifications (CISSP, OSCP in the future)  
+- Preparing for advanced certifications (CISSP, OSCP, CPTS in the future)  
 
 ---
 
