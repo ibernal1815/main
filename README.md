@@ -17,30 +17,29 @@
 > *Note: Below are selected highlights — not a complete course list.*
 
 ### Associate's in Computer Programming  
-- **CS 130:** x86 Assembly (MASM), memory/register manipulation  
-- **CS 216:** C++ OOP, classes, inheritance, exception handling  
-- **CS 112:** JavaScript, DOM scripting, async validation
+- **CS 130:** Assembly programming, register-level optimization, memory management  
+- **CS 216:** Object-oriented design, exception handling, software modularity  
+- **CS 112:** Dynamic scripting, asynchronous operations, client-side validation  
 
 ### Associate's in Cybersecurity  
-- **CIS 215:** Network security, packet analysis, firewall config  
-- **CIS 219:** Secure SQL development, parameterized queries  
-- **CIS 165:** CIA triad, NIST/ISO, risk assessment
+- **CIS 215:** Network defense, packet analysis, firewall administration  
+- **CIS 219:** Secure database design, SQL injection prevention, query optimization  
+- **CIS 165:** Risk assessment, security frameworks (NIST/ISO), compliance strategies  
 
-### Bachelor's in Computer Information Technology (in progress)   
-- **CIT 480/L:** Project management, feasibility studies, technical presentations  
-- **COMP 529/L:** Distributed systems, concurrency, client-server sockets  
-- **COMP 541:** Data mining, clustering, classification  
-
+### Bachelor's in Computer Information Technology (in progress)  
+- **CIT 480/L:** Project lifecycle management, feasibility analysis, professional communication  
+- **COMP 529/L:** Distributed architectures, concurrency control, fault-tolerant systems  
+- **COMP 541:** Data preprocessing, pattern recognition, predictive modeling  
 
 ---
 
 ## 🛠️ Core Skills
-- Operating Systems: Windows, Linux, macOS  
-- Networking & Protocols: TCP/IP, DNS, VPN, Wireshark  
-- Cybersecurity: SIEM (Splunk, Wazuh, ELK), IDS/IPS (Snort, Suricata), Incident Response  
-- Programming & Scripting: Python, PowerShell, Bash, C++, JavaScript  
-- Cloud & Virtualization: AWS, Azure, GCP, Hyper-V, VirtualBox  
-- Frameworks & Standards: MITRE ATT&CK, NIST, ISO/IEC 27001  
+- **Operating Systems**: Windows, Linux, macOS, Android, iOS
+- **Networking & Protocols**: TCP/IP, DNS, VPN, 
+- **Cybersecurity**: SIEM (Splunk, Wazuh, ELK), IDS/IPS (Snort, Suricata), Incident Response  
+- **Programming & Scripting**: Python, PowerShell, Bash, C++, JavaScript  
+- **Cloud & Virtualization**: AWS, Azure, GCP, Hyper-V, VirtualBox  
+- **Frameworks & Standards**: MITRE ATT&CK, NIST, ISO/IEC 27001  
 
 ---
 
