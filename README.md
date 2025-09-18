@@ -34,12 +34,13 @@
 ---
 
 ## 🛠️ Core Skills
-- **Operating Systems**: Windows, Linux, macOS, Android, iOS
-- **Networking & Protocols**: TCP/IP, DNS, VPN, 
-- **Cybersecurity**: SIEM (Splunk, Wazuh, ELK), IDS/IPS (Snort, Suricata), Incident Response  
-- **Programming & Scripting**: Python, PowerShell, Bash, C++, JavaScript  
+- **Operating Systems**: Windows, Linux, macOS, Android, iOS  
+- **Networking & Protocols**: IPsec, VLAN, TCP/IP, DNS, OSPF, VPN
+- **Cybersecurity Tools**: ElasticStack, Snort/Suricata, IOC/IOA, OpenVAS/Nessus, BloodHound
+- **Programming & Scripting**: Python, PowerShell, Bash, JavaScript  
 - **Cloud & Virtualization**: AWS, Azure, GCP, Hyper-V, VirtualBox  
-- **Frameworks & Standards**: MITRE ATT&CK, NIST, ISO/IEC 27001  
+- **Frameworks & Standards**: MITRE ATT&CK, NIST, ISO/IEC 27001, PTES  
+
 
 ---
 
@@ -58,9 +59,6 @@
 - Preparing for advanced certifications (CISSP, OSCP, CPTS in the future)  
 
 ---
-
-<p align="center"><strong>“Offense informs defense. Defense drives detection. Purple builds the future.”</strong></p>
-
 
 ## 🛡️ Certifications 
 
