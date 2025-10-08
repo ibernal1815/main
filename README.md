@@ -8,7 +8,6 @@
 - Associate's in Programming & Cybersecurity  
 - Bachelor's in Computer Information Technology (in progress)  
 - Future Master's in Computer Science @ CSULA
-- Seeking **remote, hybrid, or on-site** cybersecurity or IT roles  
 - Focused on **Purple Teaming** — simulating real attacks and building custom detections
 
 ---
