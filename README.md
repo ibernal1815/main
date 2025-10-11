@@ -1,54 +1,80 @@
-<h1 align="center">⚔️ Isaiah Bernal — IT & Cybersecurity Engineer ⚔️</h1>
-<p align="center">💡 Infrastructure | Detection Engineering | Adversary Simulation 💡</p>
+<h1 align="center">⚔️ Isaiah Bernal ⚔️</h1>
+<p align="center">💻 IT & Cybersecurity Engineer | 🧠 Purple Teaming | 🧩 Adversary Simulation</p>
 
 ---
 
-## 👋 Hey, I’m Isaiah  
-I build and break systems to see what really happens under the hood.  
-My journey started in **IT and programming**, and evolved into **cybersecurity** — where curiosity meets precision.  
-I focus on **building high-fidelity labs** that simulate real-world attacks and **engineering detections** that actually stop them.  
-
-Right now, I’m deep into **Purple Team operations**, **automation**, and **cloud defense** — turning theory into measurable results.
+<p align="center">
+  <em>“The best defense understands how it fails — then builds better.”</em>
+</p>
 
 ---
 
-## 🧠 Projects That Define My Work
-- 🧩 **Active Directory Lab** – multi-domain setup, simulated attack chains, and custom detections built on ELK  
-- 🍎 **macOS Audit Framework** – exploring Apple’s entitlement system and crafting telemetry-based detections  
-- 🐧 **Linux Priv-Esc Playground** – dedicated sandbox for privilege escalation techniques and mitigations  
-- ⚙️ **Infra Builds** – PXE boot automation, network segmentation, and scalable VM deployments across cloud platforms  
+<h2 align="center">👋 Hey, I’m Isaiah</h2>
+
+<p align="center">
+I build and break systems to understand how they really work.<br>
+My journey started in <strong>IT and programming</strong> and evolved into <strong>cybersecurity</strong> — where curiosity meets precision.<br>
+I design <strong>high-fidelity labs</strong> that simulate real-world attacks and <strong>engineer detections</strong> that actually stop them.<br>
+Currently focused on <strong>Purple Teaming</strong>, <strong>automation</strong>, and <strong>cloud defense</strong>.
+</p>
 
 ---
 
-## ⚙️ Toolset
-**OS:** Windows • Linux • macOS • Android  
-**Network:** VLANs • IPsec • DNS • VPN • OSPF  
-**Security:** Elastic Stack • Suricata • Wazuh • Nessus • BloodHound  
-**Languages:** Python • PowerShell • Bash • JavaScript  
-**Cloud:** AWS • Azure • GCP • Hyper-V • VirtualBox  
-**Frameworks:** MITRE ATT&CK • NIST • ISO 27001 • PTES  
+<h2 align="center">🧠 Projects That Define My Work</h2>
+
+<p align="center">
+  🧩 <strong>Active Directory Lab</strong> – multi-domain setup, simulated attack chains, and ELK-based detections<br>
+  🍎 <strong>macOS Audit Framework</strong> – exploring Apple’s entitlements and building telemetry-driven detections<br>
+  🐧 <strong>Linux Priv-Esc Playground</strong> – a sandbox for privilege escalation practice and mitigations<br>
+  ⚙️ <strong>Infra Builds</strong> – PXE boot automation, network segmentation, and scalable VM deployments
+</p>
 
 ---
 
-## 🚀 Focus Areas
-- Bridging **IT operations** with **SOC detection pipelines**  
-- Building **Detection-as-Code** workflows in ELK and Splunk  
-- Automating **adversary simulation** and **log correlation**  
-- Expanding **multi-cloud visibility** and defense-in-depth  
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+  💽 <strong>OS:</strong> Windows • Linux • macOS • Android<br>
+  🌐 <strong>Network:</strong> VLANs • IPsec • DNS • VPN • OSPF<br>
+  🔐 <strong>Security:</strong> Elastic Stack • Suricata • Wazuh • Nessus • BloodHound<br>
+  🧩 <strong>Languages:</strong> Python • PowerShell • Bash • JavaScript<br>
+  ☁️ <strong>Cloud:</strong> AWS • Azure • GCP • Hyper-V • VirtualBox<br>
+  🧱 <strong>Frameworks:</strong> MITRE ATT&CK • NIST • ISO 27001 • PTES
+</p>
 
 ---
 
-## 🎓 Education
-🎓 **A.S. in Programming & Cybersecurity**  
-💻 **B.S. in Computer Information Technology** *(in progress)*  
-🧠 **M.S. in Computer Science** *(planned @ CSULA)*  
+<h2 align="center">🚀 Focus Areas</h2>
+
+<p align="center">
+  🔄 Bridging <strong>IT operations</strong> with <strong>SOC detection pipelines</strong><br>
+  ⚡ Building <strong>Detection-as-Code</strong> workflows in ELK and Splunk<br>
+  🧠 Automating <strong>adversary simulation</strong> and <strong>log correlation</strong><br>
+  ☁️ Expanding <strong>multi-cloud visibility</strong> and defense-in-depth
+</p>
 
 ---
 
-## 🛡️ Certifications
-**(ISC)² Certified in Cybersecurity (CC)** – cybersecurity principles, access control, and incident response  
-**CompTIA:** ITF+ • A+ • Network+ • Security+ • CySA+ • Cloud Essentials+
+<h2 align="center">🎓 Education</h2>
+
+<p align="center">
+  🎓 <strong>A.S.</strong> in Programming & Cybersecurity<br>
+  💻 <strong>B.S.</strong> in Computer Information Technology <em>(in progress)</em><br>
+  🧠 <strong>M.S.</strong> in Computer Science <em>(planned @ CSULA)</em>
+</p>
 
 ---
 
-<p align="center"><strong>“The best defense understands how it fails — then builds better.”</strong></p>
+<h2 align="center">🛡️ Certifications</h2>
+
+<p align="center">
+  🧩 <strong>(ISC)² Certified in Cybersecurity (CC)</strong> – cybersecurity principles, access control, and incident response<br>
+  💡 <strong>CompTIA:</strong> ITF+ • A+ • Network+ • Security+ • CySA+ • Cloud Essentials+
+</p>
+
+---
+
+<p align="center">
+  <strong>⚔️ Building the bridge between IT and Cyber Defense ⚔️</strong>
+</p>
+
