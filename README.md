@@ -1,5 +1,5 @@
 <h1 align="center">⚔️ Isaiah Bernal ⚔️</h1>
-<p align="center">IT & Cybersecurity Engineer | Purple Teaming | Adversary Simulation</p>
+<p align="center">💻 IT & Cybersecurity Engineer | 🧠 Purple Teaming | 🧩 Adversary Simulation</p>
 
 ---
 
@@ -20,7 +20,7 @@ Currently focused on <strong>Purple Teaming</strong>, <strong>automation</strong
 
 ---
 
-<h2 align="center">Projects That Define My Work</h2>
+<h2 align="center">🧠 Projects That Define My Work</h2>
 
 <p align="center">
   <strong>Active Directory Lab</strong> – multi-domain setup, simulated attack chains, and ELK-based detections<br>
@@ -31,7 +31,7 @@ Currently focused on <strong>Purple Teaming</strong>, <strong>automation</strong
 
 ---
 
-<h2 align="center">Core Stack</h2>
+<h2 align="center">⚙️ Core Stack</h2>
 
 <p align="center">
   <strong>OS:</strong> Windows • Linux • macOS<br>
@@ -44,7 +44,7 @@ Currently focused on <strong>Purple Teaming</strong>, <strong>automation</strong
 
 ---
 
-<h2 align="center">Focus Areas</h2>
+<h2 align="center">🚀 Focus Areas</h2>
 
 <p align="center">
   Bridging <strong>IT operations</strong> with <strong>SOC detection pipelines</strong><br>
@@ -55,7 +55,7 @@ Currently focused on <strong>Purple Teaming</strong>, <strong>automation</strong
 
 ---
 
-<h2 align="center">Education</h2>
+<h2 align="center">🎓 Education</h2>
 
 <p align="center">
   <strong>A.S.</strong> in Programming & Cybersecurity<br>
@@ -65,7 +65,7 @@ Currently focused on <strong>Purple Teaming</strong>, <strong>automation</strong
 
 ---
 
-<h2 align="center">Certifications</h2>
+<h2 align="center">🛡️ Certifications</h2>
 
 <p align="center">
   <strong>(ISC)² Certified in Cybersecurity (CC)</strong><br>
@@ -77,4 +77,3 @@ Currently focused on <strong>Purple Teaming</strong>, <strong>automation</strong
 <p align="center">
   <strong>⚔️ Building the bridge between IT and Cyber Defense ⚔️</strong>
 </p>
-
