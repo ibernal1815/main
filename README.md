@@ -6,7 +6,7 @@
 ## 👋 Hey, I’m Isaiah  
 I build and break systems to understand how they really work.  
 My path started in **IT and programming**, and evolved into **cybersecurity** — where offense and defense meet.  
-I’m most at home designing **labs that mimic real threats** and **detections that actually catch them**.  
+I focus on building realistic labs that simulate real-world threats and developing detections that make a measurable impact.  
 
 Right now, I’m focused on purple team operations, automation, and cloud defense.  
 
