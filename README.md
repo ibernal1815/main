@@ -4,19 +4,19 @@
 ---
 
 ## 👋 Hey, I’m Isaiah  
-I build and break systems to understand how they really work.  
-My path started in **IT and programming**, and evolved into **cybersecurity** — where offense and defense meet.  
-I focus on building realistic labs that simulate real-world threats and developing detections that make a measurable impact.  
+I build and break systems to see what really happens under the hood.  
+My journey started in **IT and programming**, and evolved into **cybersecurity** — where curiosity meets precision.  
+I focus on **building high-fidelity labs** that simulate real-world attacks and **engineering detections** that actually stop them.  
 
-Right now, I’m focused on purple team operations, automation, and cloud defense.  
+Right now, I’m deep into **Purple Team operations**, **automation**, and **cloud defense** — turning theory into measurable results.
 
 ---
 
-## 🧠 What I’ve Been Working On
-- **Active Directory Lab** – domain controllers, simulated attacks, and custom detection rules  
-- **macOS Audit Framework** – digging into Apple’s entitlement system to surface hidden telemetry  
-- **Linux Priv-Esc Playground** – a sandbox for practicing privilege escalation and mitigation  
-- **Infra Builds** – PXE boot, cloud VM provisioning, and segmented network designs  
+## 🧠 Projects That Define My Work
+- 🧩 **Active Directory Lab** – multi-domain setup, simulated attack chains, and custom detections built on ELK  
+- 🍎 **macOS Audit Framework** – exploring Apple’s entitlement system and crafting telemetry-based detections  
+- 🐧 **Linux Priv-Esc Playground** – dedicated sandbox for privilege escalation techniques and mitigations  
+- ⚙️ **Infra Builds** – PXE boot automation, network segmentation, and scalable VM deployments across cloud platforms  
 
 ---
 
@@ -30,18 +30,18 @@ Right now, I’m focused on purple team operations, automation, and cloud defens
 
 ---
 
-## 🚀 What Drives Me
-- Building detections that reflect real-world adversaries  
-- Bridging IT fundamentals with modern SOC practices  
-- Automating purple team workflows with code  
-- Learning every day — both offense and defense  
+## 🚀 Focus Areas
+- Bridging **IT operations** with **SOC detection pipelines**  
+- Building **Detection-as-Code** workflows in ELK and Splunk  
+- Automating **adversary simulation** and **log correlation**  
+- Expanding **multi-cloud visibility** and defense-in-depth  
 
 ---
 
 ## 🎓 Education
-- **A.S. in Programming & Cybersecurity**  
-- **B.S. in Computer Information Technology** *(in progress)*  
-- **M.S. in Computer Science** *(future, CSULA)*  
+🎓 **A.S. in Programming & Cybersecurity**  
+💻 **B.S. in Computer Information Technology** *(in progress)*  
+🧠 **M.S. in Computer Science** *(planned @ CSULA)*  
 
 ---
 
@@ -52,4 +52,3 @@ Right now, I’m focused on purple team operations, automation, and cloud defens
 ---
 
 <p align="center"><strong>“The best defense understands how it fails — then builds better.”</strong></p>
-
