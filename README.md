@@ -1,10 +1,10 @@
 <h1 align="center">⚔️ Isaiah Bernal ⚔️</h1>
-<p align="center">Blue Team & SOC Analyst in Training | Digital Forensics | Adversary Understanding</p>
+<p align="center">Cybersecurity Analyst • SOC / Blue Team • Digital Forensics • Detection Engineering (in progress)</p>
 
 ---
 
 <p align="center">
-  <em>“You can’t defend what you don’t understand — so I study how systems fail.”</em>
+  <em>“Every system has a story. I learn its patterns, find its weak spots, and make it stronger.”</em>
 </p>
 
 ---
@@ -12,22 +12,24 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-I'm a cybersecurity learner with a foundation in <strong>IT, programming, and system administration</strong>.  
-I focus on building realistic labs that mirror the environments SOC analysts and IR teams defend daily.  
-My work revolves around <strong>Windows triage</strong>, <strong>memory forensics</strong>, <strong>network telemetry</strong>, and <strong>detection logic</strong>.
+I’m someone who learns by building, breaking, fixing, and understanding.  
+My background blends <strong>IT operations</strong>, <strong>programming</strong>, and <strong>hands-on cybersecurity</strong>, and I’m driven by the idea that real skill comes from facing real challenges.  
 <br><br>
-I'm working toward SOC/IR roles while building skills that eventually lead into <strong>Purple Teaming</strong>.
+I keep a friendly and collaborative approach, but I take the craft seriously.  
+I like digging into the details most people overlook, and I’m comfortable working through the quiet, difficult parts of security work—the logs, the artifacts, the things that don’t give up answers easily.
+<br><br>
+Right now, I’m sharpening my Blue Team and Incident Response abilities while preparing for the kind of work where understanding the adversary matters just as much as defending against them.
 </p>
 
 ---
 
-<h2 align="center">🧠 Practical Security Projects</h2>
+<h2 align="center">🧠 Security Projects</h2>
 
 <p align="center">
-  <strong>Windows IR Lab</strong> – event log analysis, memory forensics, and attacker timeline reconstruction<br>
-  <strong>Active Directory Environment</strong> – multi-OU setup with simulated attacks and basic detection attempts<br>
-  <strong>macOS Entitlement Audit</strong> – investigating app permissions and risk categories<br>
-  <strong>Linux Priv-Esc Sandbox</strong> – hands-on enumeration and mitigation practice
+  <strong>Windows IR Lab</strong> – event log analysis, forensic triage, attacker timeline reconstruction<br>
+  <strong>Active Directory Environment</strong> – multi-OU setup with simulated attacks and detection exercises<br>
+  <strong>macOS Entitlement Audit</strong> – analyzing application permissions and security boundaries<br>
+  <strong>Linux Privilege Escalation Sandbox</strong> – practical enumeration, exploitation, and mitigation practice
 </p>
 
 ---
@@ -38,18 +40,17 @@ I'm working toward SOC/IR roles while building skills that eventually lead into 
   <strong>Security:</strong> Elastic Stack • Sysinternals • Volatility • Suricata • Wireshark<br>
   <strong>Systems:</strong> Windows • Linux • macOS<br>
   <strong>Languages:</strong> Python • Bash • PowerShell • JavaScript<br>
-  <strong>Infra:</strong> VMware • VirtualBox • pfSense • Basic Cloud (AWS/Azure)
+  <strong>Infrastructure:</strong> VMware • VirtualBox • pfSense • Basic AWS/Azure
 </p>
 
 ---
 
-<h2 align="center">🚀 Current Focus</h2>
+<h2 align="center">🚀 What I’m Working Toward</h2>
 
 <p align="center">
-  Strengthening <strong>incident response fundamentals</strong><br>
-  Improving <strong>log analysis and detection</strong><br>
-  Studying <strong>Windows internals</strong> and <strong>forensics artifacts</strong><br>
-  Building toward future <strong>Purple Team capabilities</strong>
+  Becoming stronger at <strong>log analysis</strong>, <strong>detection development</strong>, and <strong>incident response</strong><br>
+  Strengthening my understanding of <strong>Windows internals</strong> and core forensic artifacts<br>
+  Building a foundation that leads toward future <strong>Purple Team</strong> and adversary-focused work
 </p>
 
 ---
@@ -69,3 +70,4 @@ I'm working toward SOC/IR roles while building skills that eventually lead into 
 CompTIA A+ • Network+ • Security+ • CySA+ • ISC2 CC<br>
 Currently studying: HTB CDSA • Pentest+
 </p>
+
