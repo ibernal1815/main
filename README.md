@@ -1,56 +1,55 @@
 <h1 align="center">⚔️ Isaiah Bernal ⚔️</h1>
-<p align="center">💻 IT & Cybersecurity Engineer | 🧠 Purple Teaming | 🧩 Adversary Simulation</p>
+<p align="center">Blue Team & SOC Analyst in Training | Digital Forensics | Adversary Understanding</p>
 
 ---
 
 <p align="center">
-  <em>“The best defense understands how it fails — then builds better.”</em>
+  <em>“You can’t defend what you don’t understand — so I study how systems fail.”</em>
 </p>
 
 ---
 
-<h2 align="center">👋 Hey, I’m Isaiah</h2>
+<h2 align="center">👋 About Me</h2>
 
 <p align="center">
-I build and break systems to understand how they really work.<br>
-My journey started in <strong>IT and programming</strong> and evolved into <strong>cybersecurity</strong> — where curiosity meets precision.<br>
-I design <strong>high-fidelity labs</strong> that simulate real-world attacks and <strong>engineer detections</strong> that actually stop them.<br>
-Currently focused on <strong>Purple Teaming</strong>, <strong>automation</strong>, and <strong>cloud defense</strong>.
+I'm a cybersecurity learner with a foundation in <strong>IT, programming, and system administration</strong>.  
+I focus on building realistic labs that mirror the environments SOC analysts and IR teams defend daily.  
+My work revolves around <strong>Windows triage</strong>, <strong>memory forensics</strong>, <strong>network telemetry</strong>, and <strong>detection logic</strong>.
+<br><br>
+I'm working toward SOC/IR roles while building skills that eventually lead into <strong>Purple Teaming</strong>.
 </p>
 
 ---
 
-<h2 align="center">🧠 Projects That Define My Work</h2>
+<h2 align="center">🧠 Practical Security Projects</h2>
 
 <p align="center">
-  <strong>Active Directory Lab</strong> – multi-domain setup, simulated attack chains, and ELK-based detections<br>
-  <strong>macOS Audit Framework</strong> – exploring Apple’s entitlements and building telemetry-driven detections<br>
-  <strong>Linux Priv-Esc Playground</strong> – sandbox for privilege escalation practice and mitigations<br>
-  <strong>Infra Builds</strong> – PXE boot automation, network segmentation, and scalable VM deployments
+  <strong>Windows IR Lab</strong> – event log analysis, memory forensics, and attacker timeline reconstruction<br>
+  <strong>Active Directory Environment</strong> – multi-OU setup with simulated attacks and basic detection attempts<br>
+  <strong>macOS Entitlement Audit</strong> – investigating app permissions and risk categories<br>
+  <strong>Linux Priv-Esc Sandbox</strong> – hands-on enumeration and mitigation practice
 </p>
 
 ---
 
-<h2 align="center">⚙️ Core Stack</h2>
+<h2 align="center">⚙️ Tools & Technologies</h2>
 
 <p align="center">
-  <strong>OS:</strong> Windows • Linux • macOS<br>
-  <strong>Network:</strong> VLANs • IPsec • DNS • VPN • OSPF<br>
-  <strong>Security:</strong> Elastic Stack • Suricata • Wazuh • Nessus • BloodHound<br>
-  <strong>Languages:</strong> Python • PowerShell • Bash • JavaScript<br>
-  <strong>Cloud:</strong> AWS • Azure • GCP • Hyper-V • VirtualBox<br>
-  <strong>Frameworks:</strong> MITRE ATT&CK • NIST • ISO 27001 • PTES
+  <strong>Security:</strong> Elastic Stack • Sysinternals • Volatility • Suricata • Wireshark<br>
+  <strong>Systems:</strong> Windows • Linux • macOS<br>
+  <strong>Languages:</strong> Python • Bash • PowerShell • JavaScript<br>
+  <strong>Infra:</strong> VMware • VirtualBox • pfSense • Basic Cloud (AWS/Azure)
 </p>
 
 ---
 
-<h2 align="center">🚀 Focus Areas</h2>
+<h2 align="center">🚀 Current Focus</h2>
 
 <p align="center">
-  Bridging <strong>IT operations</strong> with <strong>SOC detection pipelines</strong><br>
-  Building <strong>Detection-as-Code</strong> workflows in ELK and Splunk<br>
-  Automating <strong>adversary simulation</strong> and <strong>log correlation</strong><br>
-  Expanding <strong>multi-cloud visibility</strong> and defense-in-depth
+  Strengthening <strong>incident response fundamentals</strong><br>
+  Improving <strong>log analysis and detection</strong><br>
+  Studying <strong>Windows internals</strong> and <strong>forensics artifacts</strong><br>
+  Building toward future <strong>Purple Team capabilities</strong>
 </p>
 
 ---
@@ -58,9 +57,8 @@ Currently focused on <strong>Purple Teaming</strong>, <strong>automation</strong
 <h2 align="center">🎓 Education</h2>
 
 <p align="center">
-  <strong>A.S.</strong> in Programming & Cybersecurity<br>
-  <strong>B.S.</strong> in Computer Information Technology</em> (in progress)<br>
-  <strong>M.S.</strong> in Computer Science</em> (planned @ CSULA)
+  A.S. in Programming & Cybersecurity<br>
+  B.S. in Computer Information Technology (in progress)
 </p>
 
 ---
@@ -68,12 +66,6 @@ Currently focused on <strong>Purple Teaming</strong>, <strong>automation</strong
 <h2 align="center">🛡️ Certifications</h2>
 
 <p align="center">
-  <strong>(ISC)² Certified in Cybersecurity (CC)</strong><br>
-  <strong>CompTIA:</strong> ITF+ • A+ • Network+ • Security+ • CySA+ • Cloud Essentials+
-</p>
-
----
-
-<p align="center">
-  <strong>⚔️ Building the bridge between IT and Cyber Defense ⚔️</strong>
+CompTIA A+ • Network+ • Security+ • CySA+ • ISC2 CC<br>
+Currently studying: HTB CDSA • Pentest+
 </p>
