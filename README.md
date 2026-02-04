@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Isaiah Bernal ⚔️</h1>
+<h1 align="center"> Isaiah Bernal </h1>
 <p align="center">Cybersecurity Analyst • SOC / Blue Team • Digital Forensics • Detection Engineering (in progress)</p>
 
 ---
@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center">👋 About Me</h2>
+<h2 align="center"?About Me</h2>
 
 <p align="center">
 I’m someone who learns by building, breaking, fixing, and understanding.  
@@ -23,7 +23,7 @@ Right now, I’m sharpening my Blue Team and Incident Response abilities while p
 
 ---
 
-<h2 align="center">🧠 Security Projects</h2>
+<h2 align="center">Security Projects</h2>
 
 <p align="center">
   <strong>Windows IR Lab</strong> – event log analysis, forensic triage, attacker timeline reconstruction<br>
@@ -34,7 +34,7 @@ Right now, I’m sharpening my Blue Team and Incident Response abilities while p
 
 ---
 
-<h2 align="center">⚙️ Tools & Technologies</h2>
+<h2 align="center">Tools & Technologies</h2>
 
 <p align="center">
   <strong>Security:</strong> Elastic Stack • Sysinternals • Volatility • Suricata • Wireshark<br>
@@ -45,7 +45,7 @@ Right now, I’m sharpening my Blue Team and Incident Response abilities while p
 
 ---
 
-<h2 align="center">🚀 What I’m Working Toward</h2>
+<h2 align="center">What I’m Working Toward</h2>
 
 <p align="center">
   Becoming stronger at <strong>log analysis</strong>, <strong>detection development</strong>, and <strong>incident response</strong><br>
@@ -64,10 +64,10 @@ Right now, I’m sharpening my Blue Team and Incident Response abilities while p
 
 ---
 
-<h2 align="center">🛡️ Certifications</h2>
+<h2 align="center">Certifications</h2>
 
 <p align="center">
 CompTIA A+ • Network+ • Security+ • CySA+ • ISC2 CC<br>
-Currently studying: HTB CDSA • Pentest+
+Currently studying: RHCSA + CCSP 
 </p>
 
