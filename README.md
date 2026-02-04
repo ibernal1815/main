@@ -1,64 +1,61 @@
 # Isaiah Bernal
 
-**IT Specialist • Linux Sysadmin • Cybersecurity Analyst (Blue Team / SOC) • Digital Forensics • Detection Engineering (in progress)**
+### IT Specialist · Linux Sysadmin · Cybersecurity Analyst (Blue Team / SOC)
 
 > *Every system has a story. I learn its patterns, find its weak spots, and make it stronger.*
 
 ---
 
-## About Me
+## Profile
 
-I’m an **IT Specialist** with a growing focus on **Linux system administration** and **Blue Team cybersecurity**.
+IT Specialist with hands-on experience in **Linux system administration** and **Blue Team cybersecurity**. Strong focus on system visibility, logging, and understanding how real-world misconfigurations, failures, and attacks unfold.
 
-I learn by building, breaking, fixing, and understanding. My background blends **IT operations**, **Linux and Windows administration**, **programming**, and **hands-on cybersecurity**, with an emphasis on how real systems behave under stress—misconfigurations, failures, and attacks.
-
-I take a practical, methodical approach to security work. I’m comfortable in the quieter, more demanding parts of the job: logs, forensic artifacts, configuration drift, and timelines that require patience and careful reconstruction. I work well independently, but I value collaboration and clear communication when problems span teams.
-
-Right now, I’m strengthening my **Linux sysadmin foundations** alongside **SOC and Incident Response skills**, with the goal of becoming a well-rounded Blue Team analyst who understands both how systems are built and how they’re attacked.
+Background spans **IT operations**, **Linux and Windows administration**, **scripting**, and **defensive security**. Comfortable working in logs, forensic artifacts, and timelines that require careful reconstruction.
 
 ---
 
-## Security & Systems Projects
+## Projects
 
-**Linux Sysadmin Lab**  
-Hands-on Linux administration environment focused on system hardening, service management, and operational reliability. Work includes user and permission management, logging and auditing, network configuration, process analysis, service troubleshooting, and recovery from misconfigurations and outages. Designed to reinforce sysadmin skills that directly support incident response, forensic analysis, and detection engineering.  
-[Project Repository](https://github.com/username/linux-sysadmin-lab)
+### Linux Sysadmin Lab  
+[Repository](https://github.com/username/linux-sysadmin-lab)
 
-**Active Directory Environment**  
-Multi-OU Active Directory lab with simulated attacks and defensive detection exercises. Focused on authentication flows, privilege boundaries, Group Policy behavior, and identifying attacker activity through native Windows logs and artifacts.  
-[Project Repository](https://github.com/username/active-directory-lab)
-
-**macOS Entitlement Audit**  
-Analysis of macOS application entitlements to understand sandboxing, permission boundaries, and potential abuse paths. Emphasis on visibility and security controls commonly overlooked in macOS environments.  
-[Project Repository](https://github.com/username/macos-entitlement-audit)
-
-**Linux Privilege Escalation Sandbox**  
-Practical enumeration, exploitation, and mitigation exercises covering common Linux misconfigurations, weak permissions, and insecure services. Used to better understand attacker techniques and defensive hardening strategies.  
-[Project Repository](https://github.com/username/linux-privesc-sandbox)
+- Linux administration, hardening, and service management  
+- Logging, auditing, and operational troubleshooting  
+- Failure recovery and misconfiguration analysis  
 
 ---
 
-## Tools & Technologies
+### Active Directory Detection Lab  
+[Repository](https://github.com/username/active-directory-lab)
 
-**Security**  
-Elastic Stack, Sysinternals, Volatility, Suricata, Wireshark
-
-**Operating Systems**  
-Linux, Windows, macOS
-
-**Languages & Scripting**  
-Python, Bash, PowerShell, JavaScript
-
-**Infrastructure & Networking**  
-VMware, VirtualBox, pfSense, basic AWS and Azure
+- Multi-OU AD environment with simulated attacks  
+- Authentication flows, privilege boundaries, Group Policy  
+- Detection using native Windows logs and artifacts  
 
 ---
 
-## What I’m Working Toward
+### macOS Entitlement Audit  
+[Repository](https://github.com/username/macos-entitlement-audit)
 
-- Stronger **log analysis**, **detection development**, and **incident response** capabilities  
-- Deeper understanding of **Linux and Windows internals** and core forensic artifacts  
-- Continued growth toward **Blue Team**, **SOC**, and future **Purple Team** work grounded in real system knowledge
+- Analysis of application entitlements and sandboxing  
+- Identification of over-privileged applications  
+
+---
+
+### Linux Privilege Escalation Sandbox  
+[Repository](https://github.com/username/linux-privesc-sandbox)
+
+- Enumeration and exploitation of Linux misconfigurations  
+- Mitigation and validation of defensive controls  
+
+---
+
+## Skills
+
+**Security:** Elastic Stack, Sysinternals, Volatility, Suricata, Wireshark  
+**Operating Systems:** Linux, Windows, macOS  
+**Scripting:** Python, Bash, PowerShell, JavaScript  
+**Infrastructure:** VMware, VirtualBox, pfSense, basic AWS/Azure  
 
 ---
 
@@ -71,10 +68,7 @@ VMware, VirtualBox, pfSense, basic AWS and Azure
 
 ## Certifications
 
-CompTIA A+  
-Network+  
-Security+  
-CySA+  
+CompTIA A+, Network+, Security+, CySA+  
 ISC2 Certified in Cybersecurity (CC)
 
-Currently studying: **RHCSA** and **CCSP**
+*Currently studying:* RHCSA, CCSP
