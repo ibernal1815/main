@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center"?About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
 I’m someone who learns by building, breaking, fixing, and understanding.  
@@ -55,7 +55,7 @@ Right now, I’m sharpening my Blue Team and Incident Response abilities while p
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">Education</h2>
 
 <p align="center">
   A.S. in Programming & Cybersecurity<br>
