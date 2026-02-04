@@ -1,73 +1,76 @@
-<h1 align="center"> Isaiah Bernal </h1>
-<p align="center">Cybersecurity Analyst • SOC / Blue Team • Digital Forensics • Detection Engineering (in progress)</p>
+# Isaiah Bernal
+
+**Cybersecurity Analyst • SOC / Blue Team • Digital Forensics • Detection Engineering (in progress)**
+
+> *Every system has a story. I learn its patterns, find its weak spots, and make it stronger.*
 
 ---
 
-<p align="center">
-  <em>“Every system has a story. I learn its patterns, find its weak spots, and make it stronger.”</em>
-</p>
+## About Me
+
+I learn by building, breaking, fixing, and understanding.
+
+My background blends **IT operations**, **programming**, and **hands-on cybersecurity**, and I’m driven by the idea that real skill comes from facing real systems and real failures—not just theory or tools in isolation.
+
+I bring a collaborative, low-ego approach to teams, but I take the craft seriously. I enjoy working through the quiet, difficult parts of security work: logs, artifacts, edge cases, and long timelines where answers don’t arrive quickly.
+
+Right now, I’m sharpening my **Blue Team** and **Incident Response** skills while laying the groundwork for adversary-aware and future **Purple Team** work—where understanding how attacks unfold is just as important as stopping them.
 
 ---
 
-<h2 align="center">About Me</h2>
+## Security Projects
 
-<p align="center">
-I’m someone who learns by building, breaking, fixing, and understanding.  
-My background blends <strong>IT operations</strong>, <strong>programming</strong>, and <strong>hands-on cybersecurity</strong>, and I’m driven by the idea that real skill comes from facing real challenges.  
-<br><br>
-I keep a friendly and collaborative approach, but I take the craft seriously.  
-I like digging into the details most people overlook, and I’m comfortable working through the quiet, difficult parts of security work—the logs, the artifacts, the things that don’t give up answers easily.
-<br><br>
-Right now, I’m sharpening my Blue Team and Incident Response abilities while preparing for the kind of work where understanding the adversary matters just as much as defending against them.
-</p>
+**Linux Sysadmin Lab**  
+Hands-on Linux administration environment focused on system hardening, service management, and failure recovery. Includes user and permission management, logging and auditing, network configuration, process analysis, and troubleshooting misconfigurations and outages. Designed to strengthen foundational sysadmin skills that directly support incident response, forensic analysis, and detection work.
 
----
+**Active Directory Environment**  
+Multi-OU Active Directory lab with simulated attacks and defensive detection exercises. Focused on authentication flows, privilege boundaries, logging visibility, and identifying attacker behavior through native Windows artifacts.
 
-<h2 align="center">Security Projects</h2>
+**macOS Entitlement Audit**  
+Analysis of macOS application entitlements to understand permission boundaries, sandboxing behavior, and potential abuse paths. Emphasis on security controls often overlooked in macOS environments.
 
-<p align="center">
-  <strong>Windows IR Lab</strong> – event log analysis, forensic triage, attacker timeline reconstruction<br>
-  <strong>Active Directory Environment</strong> – multi-OU setup with simulated attacks and detection exercises<br>
-  <strong>macOS Entitlement Audit</strong> – analyzing application permissions and security boundaries<br>
-  <strong>Linux Privilege Escalation Sandbox</strong> – practical enumeration, exploitation, and mitigation practice
-</p>
+**Linux Privilege Escalation Sandbox**  
+Practical enumeration, exploitation, and mitigation exercises covering common misconfigurations, weak permissions, and insecure services. Used to reinforce attacker tradecraft and defensive hardening strategies.
 
 ---
 
-<h2 align="center">Tools & Technologies</h2>
+## Tools & Technologies
 
-<p align="center">
-  <strong>Security:</strong> Elastic Stack • Sysinternals • Volatility • Suricata • Wireshark<br>
-  <strong>Systems:</strong> Windows • Linux • macOS<br>
-  <strong>Languages:</strong> Python • Bash • PowerShell • JavaScript<br>
-  <strong>Infrastructure:</strong> VMware • VirtualBox • pfSense • Basic AWS/Azure
-</p>
+**Security**  
+Elastic Stack, Sysinternals, Volatility, Suricata, Wireshark
 
----
+**Systems**  
+Windows, Linux, macOS
 
-<h2 align="center">What I’m Working Toward</h2>
+**Languages**  
+Python, Bash, PowerShell, JavaScript
 
-<p align="center">
-  Becoming stronger at <strong>log analysis</strong>, <strong>detection development</strong>, and <strong>incident response</strong><br>
-  Strengthening my understanding of <strong>Windows internals</strong> and core forensic artifacts<br>
-  Building a foundation that leads toward future <strong>Purple Team</strong> and adversary-focused work
-</p>
+**Infrastructure**  
+VMware, VirtualBox, pfSense, basic AWS and Azure
 
 ---
 
-<h2 align="center">Education</h2>
+## What I’m Working Toward
 
-<p align="center">
-  A.S. in Programming & Cybersecurity<br>
-  B.S. in Computer Information Technology (in progress)
-</p>
+- Stronger **log analysis**, **detection development**, and **incident response** capabilities  
+- Deeper understanding of **Windows internals** and core forensic artifacts  
+- A foundation that leads toward **Purple Team** and adversary-focused security work
 
 ---
 
-<h2 align="center">Certifications</h2>
+## Education
 
-<p align="center">
-CompTIA A+ • Network+ • Security+ • CySA+ • ISC2 CC<br>
-Currently studying: RHCSA + CCSP 
-</p>
+**A.S. in Programming & Cybersecurity**  
+**B.S. in Computer Information Technology** (in progress)
 
+---
+
+## Certifications
+
+CompTIA A+  
+Network+  
+Security+  
+CySA+  
+ISC2 Certified in Cybersecurity (CC)
+
+Currently studying: **RHCSA** and **CCSP**
